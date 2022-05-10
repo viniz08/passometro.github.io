@@ -8,6 +8,7 @@
     font-family: Arial, Helvetica, sans-serif;
     margin: auto;
     padding: auto;
+    text-shadow: 1px 2px 2px rgb(0, 0, 0);
 }
 .je {
     font-size: 20px;
@@ -39,7 +40,7 @@ img {
 }
 #jeimg{
     padding: 15px;
-    margin: 15px;
+    margin-top: 15px;
 }
 body{
     background-color: rgb(142, 142, 150);
